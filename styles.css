@@ -3,3 +3,17 @@
 body{
     font-family: 'Noto Serif', serif;
 }
+
+.container{
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
+
+.center-container{
+
+    max-width: 600px;
+
+    margin: auto;
+}
+
