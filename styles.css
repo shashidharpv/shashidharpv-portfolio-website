@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,400;1,700&display=swap');
 
+:root{
+
+    color: black;
+
+}
+
+
 body{
     font-family: 'Noto Serif', serif;
 }
@@ -15,5 +22,39 @@ body{
     max-width: 600px;
 
     margin: auto;
+}
+
+/**Links**/
+
+.link{
+    text-decoration-line: none;
+    padding: 0.5rem 1rem;
+    background-color: antiquewhite;
+
+}
+
+.link-primary
+{
+
+    color: red;
+
+    padding: 0.5rem 1rem;
+    background-color: antiquewhite;
+    border-radius:0.5rem ;
+    border:1px salmon;
+
+}
+
+.link-secondary
+
+{
+
+    color: red;
+
+    padding: 0.5rem 1rem;
+    background-color: antiquewhite;
+    border-radius:0.5rem ;
+    border: 1px salmon;
+
 }
 
