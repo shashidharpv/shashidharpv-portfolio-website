@@ -78,4 +78,27 @@ hr{
     padding: 0rem 0.5;
 }
 
+.navigation{
+    
+
+    background-color: #D8B4FE;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+
+.navigation .link{
+    color: white;
+}
+
+.navigation .nav-pills{
+
+    text-align: right;
+}
+
+.navigation.link-active{
+
+    font-weight: bold;
+
+}
 
