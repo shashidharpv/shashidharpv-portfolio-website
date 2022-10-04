@@ -60,6 +60,7 @@ hr {
 .list-non-bullet {
     list-style: none;
     padding-inline-start: 0px;
+    
 }
 
 .list-item-inline {
@@ -157,4 +158,7 @@ hr {
 /** blogs **/
 .showcase-blog {
     padding-bottom: 6rem;
+}
+
+;
 }
